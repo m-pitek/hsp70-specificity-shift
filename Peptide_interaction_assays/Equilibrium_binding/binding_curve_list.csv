@@ -1,0 +1,43 @@
+experiment_id,receptor,ligand,buffer,ligand_concentration_nM,equilibration_time
+30,AncCQ+14,FITC-Ahx-NR,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+32,AncCQ+14,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+34,AncCQ+14,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+39,AncCQ+14,FITC-Ahx-Cox4,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+40,AncCQ+T494K,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+41,"AncCQ+L440Y, A466V, S471G, T494K",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+42,AncCQ+T494K,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+43,"AncCQ+L440Y, A466V, S471G, T494K",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+44,"AncCQ+L440Y, A466V, S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+45,"AncCQ+L440Y, A466V, S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+62,"AncCQ+L440Y, T445S, R446P, I454V, T456V, S459T, A466V, S471G, E482G, T511S, A528T, D532E",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+63,AncCQ+S540N,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+65,AncCQ+S540N,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+66,"AncCQ+L440Y, T445S, A466V, S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+67,"AncCQ+L440Y, T445S, A466V, S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+68,"AncCQ+L440Y, T445S, R446P, A466V, S471G, D532E",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+69,"AncCQ+L440Y, R446P, A466V, S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+70,"AncCQ+L440Y, R446P, A466V, S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+78,AncCQ,FITC-Ahx-NR,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+83,"AncCQ+L440Y, T445S, R446P, A466V, S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+84,"AncCQ+L440Y, T445S, R446P, S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+85,"AncCQ+L440Y, T445S, R446P, A466V, S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+86,"AncCQ+L440Y, T445S, R446P, S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+92,AncCQ+L440Y,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+95,"AncCQ+L440Y,S471G",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+96,AncCQ+L440Y,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+97,AncCQ+S471G,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+106,"AncCQ+I454V, T456V, S459T, E482G, T494K, T511S, A528T, S540N",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+107,"AncCQ+L440Y, T445S, R446P, A466V, S471G, D532E",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+108,"AncCQ+I454V, T456V, S459T, E482G, T494K, T511S, A528T, S540N",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+119,AncCQ,FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+120,AncCQ,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+121,AncCQ,FITC-Ahx-Cox4,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+152,"AncCQ+L440Y, T445S, R446P, I454V, T456V, S459T, A466V, S471G, E482G, T511S, A528T, D532E",FITC-Ahx-p5,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+153,"AncCQ+L440Y, A466V, S471G",FITC-Ahx-NR,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+156,"AncCQ+L440Y, A466V, S471G",FITC-Ahx-Cox4,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+157,"AncCQ+L440Y, T445S, R446P, A466V, S471G, D532E",FITC-Ahx-Cox4,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+158,"AncCQ+L440Y, T445S, R446P, A466V, S471G, D532E",FITC-Ahx-NR,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+159,"AncCQ+I454V, T456V, S459T, E482G, T494K, T511S, A528T, S540N",FITC-Ahx-NR,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 03:00:00
+163,"AncCQ+I454V, T456V, S459T, E482G, T494K, T511S, A528T, S540N",FITC-Ahx-Cox4,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",40.0,0 days 03:00:00
+165,"AncCQ+L440Y,S471G",FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00
+166,AncCQ+S471G,FITC-Ahx-LPPVK,"20 mM HEPES*KOH pH 7.5, 100 mM KCl, 10 mM MgCl2, 10% glycerol, 1 mM DTT, 0.05% Tween-20",10.0,0 days 06:00:00

@@ -1,0 +1,33 @@
+
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+L440Y, T445S, R446P, I454V, T456V, S459T, A466V, S471G, E482G, T511S, A528T, D532E
+Ligand: FITC-Ahx-LPPVK
+Ligand concentration: 10.0 nM
+Incubation time: 0 days 06:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 9.990222885678998 ±0.49974165714632246
+r0 (val ± stderr): 0.044650241061944484 ±0.0005814400691604943
+rb (val ± stderr): 0.13839950549126256 ±0.00048427323651416585
+BIC (Bayesian Information Criterion statistic): -682.9233857530148
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+L440Y, T445S, R446P, I454V, T456V, S459T, A466V, S471G, E482G, T511S, A528T, D532E
+Ligand: FITC-Ahx-p5
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 822.7219693932725 ±78.84010700280565
+r0 (val ± stderr): 0.046572251472857706 ±0.0003639001841119222
+rb (val ± stderr): 0.07918359841624256 ±0.0006730393226514586
+BIC (Bayesian Information Criterion statistic): -606.5272166826747
+----------------------------------------------------------------------------
+                

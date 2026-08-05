@@ -1,0 +1,15 @@
+
+----------------------------------------------------------------------------
+----Dissociation kinetics fit----
+Receptor: AncCQ+14, 99.2 nM
+Ligand: FITC-Ahx-LPPVK, 10.0 nM
+Competitor (LPPVK) concentration: 50000.0 nM
+Equilibration time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: single exponent
+koff +/- stderr (1/h): 1.397 +/-0.034, (1.424, 1.436, 1.33)
+non-specific binding level:  0.051 +/-0.0006, (0.052, 0.052, 0.05)
+BIC (Bayesian Information Criterion statistic) for each fit: -2997.7, -2990.3, -3012.7
+----------------------------------------------------------------------------
+                

@@ -1,0 +1,65 @@
+
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+14
+Ligand: FITC-Ahx-LPPVK
+Ligand concentration: 10.0 nM
+Incubation time: 0 days 06:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: (1.0 nM, rep. 3)
+Kd (val ± stderr): 20.643537570414 ±0.8840526369210631
+r0 (val ± stderr): 0.041205056900980974 ±0.0005485157230209892
+rb (val ± stderr): 0.13462132213370404 ±0.0004882738320906413
+BIC (Bayesian Information Criterion statistic): -676.1822212753777
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+14
+Ligand: FITC-Ahx-p5
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 1116.4174564971722 ±63.603815371547995
+r0 (val ± stderr): 0.04463050917207023 ±0.0002365465379148464
+rb (val ± stderr): 0.08235573275915797 ±0.0004937991773434112
+BIC (Bayesian Information Criterion statistic): -645.3048222907863
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+14
+Ligand: FITC-Ahx-Cox4
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 451.9190468141443 ±31.412119407926994
+r0 (val ± stderr): 0.07396474299611833 ±0.0006513714913988221
+rb (val ± stderr): 0.15294384832148689 ±0.001177465481304936
+BIC (Bayesian Information Criterion statistic): -521.2587444274291
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ+14
+Ligand: FITC-Ahx-NR
+Ligand concentration: 10.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 424.1277892430033 ±11.009439012335028
+r0 (val ± stderr): 0.040336023798952514 ±0.00039748544260198864
+rb (val ± stderr): 0.15533666085112885 ±0.0005734558311618683
+BIC (Bayesian Information Criterion statistic): -605.0763767681718
+----------------------------------------------------------------------------
+                

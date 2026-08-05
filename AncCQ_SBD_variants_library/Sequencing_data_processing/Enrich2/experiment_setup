@@ -1,0 +1,142 @@
+{
+  "name": "AncCQ_library",
+  "output directory": "./",
+  "conditions": [
+    {
+      "name": "LPPVK_selection",
+      "selections": [
+        {
+          "name": "LPPVK_rep1", 
+          "libraries": [
+            {
+              "name": "LPPVK_rep1_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "LPPVK_rep1_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL5.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        },
+        {
+          "name": "LPPVK_rep2",
+          "libraries": [
+            {
+              "name": "LPPVK_rep2_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "LPPVK_rep2_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL6.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        },
+        {
+          "name": "LPPVK_rep3",
+          "libraries": [
+            {
+              "name": "LPPVK_rep3_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "LPPVK_rep3_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL7.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "p5_selection",
+      "selections": [
+        {
+          "name": "p5_rep1",
+          "libraries": [
+            {
+              "name": "p5_rep1_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "p5_rep1_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL8.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        },
+        {
+          "name": "p5_rep2",
+          "libraries": [
+            {
+              "name": "p5_rep2_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "p5_rep2_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL9.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        },
+        {
+          "name": "p5_rep3",
+          "libraries": [
+            {
+              "name": "p5_rep3_before",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL4.tsv",
+              "identifiers": { "min count": 10 },
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "name": "p5_rep3_after",
+              "class": "IdOnlySeqLib",
+              "counts file": "./IL10.tsv",
+              "identifiers": { "min count": 2 },
+              "report filtered reads": false,
+              "timepoint": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

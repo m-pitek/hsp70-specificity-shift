@@ -1,0 +1,65 @@
+
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ
+Ligand: FITC-Ahx-LPPVK
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 178.80263430483592 ±4.826306214873967
+r0 (val ± stderr): 0.0420287653870377 ±0.0003077533777989664
+rb (val ± stderr): 0.12411633638891817 ±0.00035431917624994467
+BIC (Bayesian Information Criterion statistic): -832.1729544397602
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ
+Ligand: FITC-Ahx-p5
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 346.7492420625832 ±25.458566442812234
+r0 (val ± stderr): 0.04551357029370928 ±0.0004259592834810625
+rb (val ± stderr): 0.0896621465809746 ±0.0005888898200564954
+BIC (Bayesian Information Criterion statistic): -782.4492955084048
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ
+Ligand: FITC-Ahx-Cox4
+Ligand concentration: 40.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 251.92786214831395 ±12.90788271732245
+r0 (val ± stderr): 0.0696810251427391 ±0.0005014758725714512
+rb (val ± stderr): 0.14188538425923292 ±0.0006322541760781599
+BIC (Bayesian Information Criterion statistic): -765.5018436745038
+----------------------------------------------------------------------------
+                
+----------------------------------------------------------------------------
+----Binding curve----
+Receptor: AncCQ
+Ligand: FITC-Ahx-NR
+Ligand concentration: 10.0 nM
+Incubation time: 0 days 03:00:00
+
+FIT DETAILS:
+fit type: quadratic_binding_function
+excluded measurements: None
+Kd (val ± stderr): 155.29870957043488 ±4.693915665892344
+r0 (val ± stderr): 0.03838087443608584 ±0.0005404053969849834
+rb (val ± stderr): 0.1552153562541685 ±0.0005728172672675591
+BIC (Bayesian Information Criterion statistic): -586.9163734353144
+----------------------------------------------------------------------------
+                
